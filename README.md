@@ -25,6 +25,11 @@ Ensure you have the following installed:
    ```bash
    pip install pygame opencv-python mediapipe
 
+   ##Note:
+   If you encounter missing dependencies, install them using the following command:
+   ```bash
+   pip install pygame opencv-python mediapipe --break-system-packages
+
 2. Clone the repository:
    ```bash
    git clone https://github.com/krish-gupta21/Ping-Pong-Gesture-Controlled-.git
@@ -37,11 +42,6 @@ Ensure you have the following installed:
 4. Run the file:
    ```bash
    python pingpong.py
-
-   ##Note:
-   If you encounter missing dependencies, install them using the following command:
-   ```bash
-   pip install pygame opencv-python mediapipe --break-system-packages
 
 ---
 
