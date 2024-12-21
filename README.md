@@ -38,13 +38,10 @@ Ensure you have the following installed:
    ```bash
    python pingpong.py
 
-### 🔧 Installing Dependencies
-
-If you encounter missing dependencies, install them using the following command:
-
-```bash
-pip install -r requirements.txt --break-system-packages
-
+   ##Note:
+   If you encounter missing dependencies, install them using the following command:
+   ```bash
+   pip install pygame opencv-python mediapipe --break-system-packages
 
 ---
 
