@@ -22,6 +22,7 @@ Ensure you have the following installed:
 ### Steps
 
 1. Install Dependecies:
+   ```bash
    pip install pygame opencv-python mediapipe
 
 1. Clone the repository:
