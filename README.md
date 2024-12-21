@@ -40,7 +40,7 @@ Ensure you have the following installed:
 
 ---
 
-    ## 🎮 Game Manual
+## 🎮 Game Manual
 
 ### How to Play:
 1. **Start the Game**:
@@ -53,7 +53,7 @@ Ensure you have the following installed:
 4. **Scoring**:
    - Earn points every time the ball hits a paddle.
 5. **Game Over**:
-   - The game ends if the ball goes out of bounds. Click anywhere to restart the game.
+   - The game ends if the ball goes out of bounds. Click restart button to reatart the game.
 
 ### 📝 Tip:
 Play in a well-lit environment for better hand detection accuracy.
