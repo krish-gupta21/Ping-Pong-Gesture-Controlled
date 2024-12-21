@@ -27,7 +27,6 @@ Ensure you have the following installed:
 
    ##Note:
    If you encounter missing dependencies, install them using the following command:
-   ```bash
    pip install pygame opencv-python mediapipe --break-system-packages
 
 2. Clone the repository:
