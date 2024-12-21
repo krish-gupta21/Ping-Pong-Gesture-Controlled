@@ -8,11 +8,6 @@ A fun and interactive ping pong game controlled by hand gestures using a webcam.
 - **Dynamic Background**: Webcam feed displayed as the game background.
 - **Score Tracking**: Keep track of your score as you play.
 - **Game Over Screen**: Displays final score with a restart option.
-
-## Demo
-![Gameplay GIF](path/to/demo.gif)  
-*Insert a GIF or image showcasing the game in action.*
-
 ---
 
 ## Installation
@@ -25,7 +20,13 @@ Ensure you have the following installed:
 - MediaPipe
 
 ### Steps
+
+1. Install Dependecies:
+   pip install pygame opencv-python mediapipe
+
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/gesture-controlled-ping-pong.git
-   cd gesture-controlled-ping-pong
+   git clone https://github.com/krish-gupta21/Ping-Pong-Gesture-Controlled-.git
+   cd Ping-Pong-Gesture-Controlled
+
+   
