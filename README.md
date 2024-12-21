@@ -25,9 +25,38 @@ Ensure you have the following installed:
    ```bash
    pip install pygame opencv-python mediapipe
 
-1. Clone the repository:
+2. Clone the repository:
    ```bash
    git clone https://github.com/krish-gupta21/Ping-Pong-Gesture-Controlled-.git
    cd Ping-Pong-Gesture-Controlled
+   
+3. Give file permisions:
+   ```bash
+   chmod +x pingpong.py
+
+4. Run the file:
+   ```bash
+   python pingpong.py
+
+---
+
+    ## 🎮 Game Manual
+
+### How to Play:
+1. **Start the Game**:
+   - Run the script using the command: `python game.py`.
+2. **Control the Paddles**:
+   - Move your **left hand** to control the **left paddle**.
+   - Move your **right hand** to control the **right paddle**.
+3. **Objective**:
+   - Prevent the ball from going out of bounds by hitting it with the paddles.
+4. **Scoring**:
+   - Earn points every time the ball hits a paddle.
+5. **Game Over**:
+   - The game ends if the ball goes out of bounds. Click anywhere to restart the game.
+
+### 📝 Tip:
+Play in a well-lit environment for better hand detection accuracy.
+
 
    
