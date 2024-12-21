@@ -44,7 +44,7 @@ Ensure you have the following installed:
 
 ### How to Play:
 1. **Start the Game**:
-   - Run the script using the command: `python game.py`.
+   - Run the script using the command: `python pingpong.py`.
 2. **Control the Paddles**:
    - Move your **left hand** to control the **left paddle**.
    - Move your **right hand** to control the **right paddle**.
