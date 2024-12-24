@@ -31,7 +31,7 @@ Ensure you have the following installed:
 
 2. Clone the repository:
    ```bash
-   git clone https://github.com/krish-gupta21/Ping-Pong-Gesture-Controlled-.git
+   git clone https://github.com/krish-gupta21/Ping-Pong-Gesture-Controlled
    cd Ping-Pong-Gesture-Controlled
    
 3. Give file permisions:
