@@ -57,7 +57,7 @@ Ensure you have the following installed:
 4. **Scoring**:
    - Earn points every time the ball hits a paddle.
 5. **Game Over**:
-   - The game ends if the ball goes out of bounds. Click restart button to reatart the game.
+   - The game ends if the ball goes out of bounds. Click restart button to restart the game.
 
 ### 📝 Tip:
 Play in a well-lit environment for better hand detection accuracy.
